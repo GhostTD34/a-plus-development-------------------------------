@@ -1,0 +1,6 @@
+{
+  "name": "A PLUS Development — Строительная компания Бишкек",
+  "description": "Официальный сайт строительной компании A PLUS Development в Кыргызстане. Элитные жилые комплексы Senator, Grand, Tunguch Residence, Aristocrat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
